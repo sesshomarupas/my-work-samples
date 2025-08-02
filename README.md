@@ -1,4 +1,6 @@
 # my-work-samples
 
-In SV_US_L.py, I showcase a project in which I built a machine learning model using scikit-learn in Python to predict the likelihood of an athlete successfully landing a trick based on their individual features. Prior to training and testing the model, I performed data visualization to understand the distribution and relationships within the dataset. The data was fictional but self-developed, using realistic values to illustrate a potential machine learning use case in the field of sports.
+In SV_US_L.py, I showcase a project in which I built a machine learning model using scikit-learn in Python to predict the likelihood of an athlete successfully landing a trick based on their features. Before training and testing the model, I performed data visualization to understand the distribution and relationships within the dataset. The data was fictional but self-developed, using realistic values to illustrate a potential machine learning use case in the field of sports.
+
+In AP7_dataanalysis, I present a typical data analysis script based on data generated during my VR projects. While this script was initially written for private use, it could be further modularized by defining global functions that can be reused whenever needed. All such functions could then be consolidated into a single script or module, allowing for more efficient and reusable analysis workflows in the future. The current script mainly focuses on data curation and preparation for statistical analysis, which is often carried out using tools like R or SPSS.
 
